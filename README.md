@@ -1,1 +1,1 @@
-# interview_prep
+# My Interview Preparation Repo
