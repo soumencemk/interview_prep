@@ -1,0 +1,11 @@
+Thread deligate patterns
+--------------------------
+==> How can you ensure timely and consistent response time as your system grows ?
+
+Message ordering can be achived with thread delegates
+	** Premise : Not every message must be ordered, but rather messages within a context must be ordered 
+
+Event delgate
+	Allocation Map, send same context messages to same consumer
+
+	Striping : All A-M go through top, rest go down, something like this...

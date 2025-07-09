@@ -1,0 +1,7 @@
+Orchestration : 
+	Think about orchestra where a single person guides
+
+
+Choreography : 
+	Dance : dancers are communicating and moving, there's no central person 
+	Two services communicates between each other and achieve something 

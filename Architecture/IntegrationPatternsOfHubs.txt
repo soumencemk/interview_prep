@@ -1,0 +1,8 @@
+Common integration patterns
+-------------------------------
+
+1. Consumer/producer - send/receive message
+2. Wiretap - inspect a message without consuming it
+3. Splitter - separate message into multiple part
+4. Transformation - convert from one form to another 
+5. Enhance - modify before sending

@@ -1,0 +1,14 @@
+Ability for the system to operate as the number of users increase
+
+1. is performance and responsiveness impacted ?
+2. is there an increase in timeouts ? 
+3. is there an increase in system crashes ? 
+4. is there enough DB capacity ? 
+5. is there enough vm capacity ? 
+
+
+
+Capture : 
+	API request | timeouts
+	api request | user_id | durations
+	

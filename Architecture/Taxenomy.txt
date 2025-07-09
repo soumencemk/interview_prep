@@ -1,0 +1,5 @@
+1. Functional Service : public API service handles business requests
+2. Orchestration service : public API Service that orchestrates multiple services for a single business requests
+3. Infrastructure Service : private Cross-cutting and infra related stuffs
+4. Aggregation Service : public - handles aggregate business info, reporting info etc.
+5. gateway service : Fronts 3rd party or custom systems, handles protocol and contract transformation 

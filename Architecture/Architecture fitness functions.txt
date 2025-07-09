@@ -1,0 +1,4 @@
+Architecture fitness functions
+--------------------------------
+
+Atomic, Holistic ,, they can be triggered or continuous... they can be automated/manual... trend/threshold

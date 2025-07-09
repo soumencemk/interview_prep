@@ -1,0 +1,2 @@
+split services by domain when they exceeds a certain count
+example : customer domain, shipping domain, Order processing, Payment, Tracking

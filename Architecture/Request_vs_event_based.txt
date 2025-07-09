@@ -1,0 +1,7 @@
+When Request based : 
+----------------------
+	Choose request based when you need well structured data driven approach with stateful processing with control and certainty over the processing flow
+
+When event based : 
+-------------------
+	choose when you need a flexible action-based approach with high level of responsiveness and scale with complex and dynamic processing

@@ -1,0 +1,13 @@
+Business                     Architect
+----------------------------------------
+Faster time to market ------->  Agility
+								Testability
+								Deployability
+
+User satisfaction  -----------> Performance
+								availability
+								fault tolerance
+
+Mergers & Accusation ----------> Agility
+								 scalability
+								 learnability
